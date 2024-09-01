@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65e167e4b59e56d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【文章目录】/【1 - 哲学类】/100 - 哲学总论/论哲学/中西哲学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摘抄本/生词本.md",
+                "file": "【文章目录】/【1 - 哲学类】/100 - 哲学总论/论哲学/中西哲学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,8 +157,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "efd7a25d374cb5e1",
+  "active": "65e167e4b59e56d4",
   "lastOpenFiles": [
+    "【文章目录】/【1 - 哲学类】/190 - 伦理学/190 - 伦理学总论/乱伦.md",
+    "【本周更新】/扁舟.md",
     "【本周更新】/单刀会.md",
     "【本周更新】/宁十勿一.md",
     "【本周更新】/高铁俱乐部.md",
@@ -170,8 +185,6 @@
     "【文章目录】/【4 - 应用科学】/470 - 制造/硅胶干燥剂.md",
     "【文章目录】/【1 - 哲学类】/190 - 伦理学/194 - 性伦理 & 亲密关系/亲密关系/论恋爱/原则/恐艾.md",
     "【文章目录】/【5 - 社会科学】/540 - 社会学/544 - 家庭 & 族制/接班第一.md",
-    "【文章目录】/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/热爱的福利.md",
-    "【文章目录】/【1 - 哲学类】/160 - 形而上学/160 - 形而上学总论/论学习/学习的快乐.md",
     "www.zhihu.com/question/634890549/answer",
     "www.zhihu.com/question/634890549",
     "www.zhihu.com/question",
